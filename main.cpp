@@ -1,6 +1,6 @@
 //Emily G. Contreras
 //7/17/2022
-//Midterm 2 part 2
+//Emy's Number Lottery
 #include <iostream>
 using namespace std;
 
@@ -12,7 +12,7 @@ string input;
 
   
 do {
-cout << "\nWelcome to Emy's number lottery!\n";
+cout << "\nWelcome to Emy's Number Lottery!\n";
 
 //numbers
 cout << "\nplease enter 5 numbers between 1-69 one at a time " << endl;
@@ -38,7 +38,7 @@ cout << "\nPlease enter a mega number" << endl;
   }
 
   
-cout << "\nDo you want to try Emy's number lottery again? Type yes or stop to exit " << endl;
+cout << "\nDo you want to try Emy's Number Lottery again? Type yes or stop to exit " << endl;
 cin >> input;
         
  }while(input == "yes" || input == "Yes");
@@ -56,7 +56,7 @@ return 0;
     
 
 /* OUTPUT OUTPUT : TO LOSE AND STOP
-Welcome to Emy's number lottery!
+Welcome to Emy's Number Lottery!
 
 please enter 5 numbers between 1-69 one at a time 
 1
@@ -80,7 +80,7 @@ Thank you playing Emy's number lottery, try us again next time!
 
 
 OUTPUT OUTPUT : TO WIN AND CONTUIE
-Welcome to Emy's number lottery!
+Welcome to Emy's Number Lottery!
 
 please enter 5 numbers between 1-69 one at a time 
 4 50 33 22 60
@@ -90,12 +90,12 @@ Please enter a mega number
 
 
 You won!
-Thank you for playing Emy's number lottery!
+Thank you for playing Emy's Number Lottery!
 
 Do you want to try Emy's number lottery again? Type yes or stop to exit 
 yes
 
-Welcome to Emy's number lottery!
+Welcome to Emy's Number Lottery!
 
 please enter 5 numbers between 1-69 one at a time 
 
