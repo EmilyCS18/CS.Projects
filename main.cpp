@@ -27,7 +27,7 @@ cout << "\nPlease enter a mega number" << endl;
   {
      cout << "\n" << endl;
     cout << "You won!" << endl; 
-    cout << "Thank you for playing Emy's number lottery!" << endl; 
+    cout << "Thank you for playing Emy's Number Lottery!" << endl; 
   }
     
     // to lose
@@ -45,7 +45,7 @@ cin >> input;
 
   if (input == "stop" || "Stop")
 {
- cout << "\nThank you playing Emy's number lottery, try us again next time!" << endl; 
+ cout << "\nThank you for playing Emy's Number Lottery, try us again next time!" << endl; 
 }
 
 
@@ -55,7 +55,7 @@ return 0;
 }
     
 
-/* OUTPUT OUTPUT : TO LOSE AND STOP
+/* OUTPUT OUTPUT: TO LOSE AND STOP
 Welcome to Emy's Number Lottery!
 
 please enter 5 numbers between 1-69 one at a time 
@@ -74,12 +74,12 @@ Sorry, those are not winning numbers
 Do you want to try Emy's number lottery again? Type yes or stop to exit 
 stop
 
-Thank you playing Emy's number lottery, try us again next time!
+Thank you for playing Emy's Number Lottery, try us again next time!
 
 
 
 
-OUTPUT OUTPUT : TO WIN AND CONTUIE
+OUTPUT OUTPUT: TO WIN AND CONTINUE
 Welcome to Emy's Number Lottery!
 
 please enter 5 numbers between 1-69 one at a time 
@@ -92,7 +92,7 @@ Please enter a mega number
 You won!
 Thank you for playing Emy's Number Lottery!
 
-Do you want to try Emy's number lottery again? Type yes or stop to exit 
+Do you want to try Emy's Number Lottery again? Type yes or stop to exit 
 yes
 
 Welcome to Emy's Number Lottery!
