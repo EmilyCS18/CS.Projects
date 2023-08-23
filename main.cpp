@@ -1,6 +1,6 @@
 /*
- * Title: Project_1
- * Description: Student Report options
+ * Title: Student Report
+ * Description: Student Report Options
  * Author: Emily Contreras
  * Date: 4/28/23
  */
